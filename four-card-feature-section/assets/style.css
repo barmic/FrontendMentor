@@ -41,21 +41,26 @@ body {
 p {
     color: var(--grayish-blue);
 }
-h1 {
+
+header {
+    text-align: center;
+    width: 33rem;
+    margin: 0 auto;
+}
+header > h1 {
     color: var(--very-dark-blue);
     font-family: "Poppins light";
+    margin-top: 5vh;
+    margin-bottom: 0;
 }
-h2 {
+header > h2 {
+    margin-top: 0;
     color: var(--very-dark-blue);
     font-family: "Poppins bold";
 }
 
-header {
-    text-align: center;
-}
-
 h1 {
-    font-weight: var(--text-weight-light);
+    font-family: "Poppins bold";
 }
 
 main {
@@ -65,7 +70,7 @@ main {
     justify-content: center;
     display: grid;
     grid-template-columns: auto;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 @media (min-width: 65rem) {
