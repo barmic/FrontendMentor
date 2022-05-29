@@ -1,3 +1,1 @@
-# Exercices from Frontend Mentor
-
-[Frontend Mentor](https://www.frontendmentor.io)
+[Wellcome page](https://barmic.github.io/frontendmentor/)
