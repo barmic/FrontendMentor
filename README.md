@@ -1,1 +1,1 @@
-[Wellcome page](https://barmic.github.io/frontendmentor/)
+[Wellcome page](https://barmic.github.io/FrontendMentor/)
